@@ -1,0 +1,26 @@
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto Bingo2020_v1.0\bin\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.exe
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto Bingo2020_v1.0\bin\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.deps.json
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto Bingo2020_v1.0\bin\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.runtimeconfig.json
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto Bingo2020_v1.0\bin\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.runtimeconfig.dev.json
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto Bingo2020_v1.0\bin\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.dll
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto Bingo2020_v1.0\bin\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.pdb
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.csprojAssemblyReference.cache
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.csproj.CoreCompileInputs.cache
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.AssemblyInfoInputs.cache
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.AssemblyInfo.cs
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.dll
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.pdb
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.genruntimeconfig.cache
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto_Bingo2020\Projeto_Bingo2020_v1.0\bin\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.exe
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto_Bingo2020\Projeto_Bingo2020_v1.0\bin\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.deps.json
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto_Bingo2020\Projeto_Bingo2020_v1.0\bin\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.runtimeconfig.json
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto_Bingo2020\Projeto_Bingo2020_v1.0\bin\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.runtimeconfig.dev.json
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto_Bingo2020\Projeto_Bingo2020_v1.0\bin\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.dll
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto_Bingo2020\Projeto_Bingo2020_v1.0\bin\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.pdb
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto_Bingo2020\Projeto_Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.csprojAssemblyReference.cache
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto_Bingo2020\Projeto_Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.csproj.CoreCompileInputs.cache
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto_Bingo2020\Projeto_Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.AssemblyInfoInputs.cache
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto_Bingo2020\Projeto_Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.AssemblyInfo.cs
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto_Bingo2020\Projeto_Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.dll
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto_Bingo2020\Projeto_Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.pdb
+C:\Users\avlal\OneDrive - ATEC - Academia de Formação\Helder Pinto\0000 - Trabalhos de casa\Projeto_Bingo2020\Projeto_Bingo2020_v1.0\obj\Debug\netcoreapp3.1\Projeto Bingo2020_v1.0.genruntimeconfig.cache
